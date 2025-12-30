@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "bad",
+  "base_artist": "wave to earth",
+  "createdAt": "2025-12-30T07:28:54.835604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/01_Bad_Habit_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/02_Bad_Liar_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/03_Bad_Moon_Rising_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad News",
+      "artist": "Moon Martin",
+      "has_synced": false,
+      "path": "select/04_Bad_News_Moon_Martin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me Bad Porto",
+      "artist": "Bonito Bunny",
+      "has_synced": true,
+      "path": "select/05_Me_Bad_Porto_Bonito_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (with The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/06_Bad_Wine_and_Lemon_Cake_(with_The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (feat. The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/07_Bad_Wine_and_Lemon_Cake_(feat._The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Bad Goodbye",
+      "artist": "Clint Black with Wynonna",
+      "has_synced": false,
+      "path": "select/08_A_Bad_Goodbye_Clint_Black_with_Wynonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Good Run Of Bad Luck",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/09_A_Good_Run_Of_Bad_Luck_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Good Run Of Bad Luck (Album Version)",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/10_A_Good_Run_Of_Bad_Luck_(Album_Version)_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/11_Bad_Boy_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad For You",
+      "artist": "The SteelDrivers",
+      "has_synced": false,
+      "path": "select/12_Bad_For_You_The_SteelDrivers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad News",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/13_Bad_News_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Best Kinda Bad",
+      "artist": "Walker McGuire",
+      "has_synced": true,
+      "path": "select/14_Best_Kinda_Bad_Walker_McGuire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Betty's Bein' Bad",
+      "artist": "Sawyer Brown",
+      "has_synced": false,
+      "path": "select/15_Betty's_Bein'_Bad_Sawyer_Brown.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Big Bad John",
+      "artist": "Jimmy Dean",
+      "has_synced": true,
+      "path": "select/16_Big_Bad_John_Jimmy_Dean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bad",
+      "artist": "wave to earth",
+      "has_synced": false,
+      "path": "select/pl_01_bad_wave_to_earth.txt"
+    }
+  ]
+}
